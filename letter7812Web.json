@@ -1,0 +1,59 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Letter #7812",
+  "description": "The letter 'E' is full of energy, expression, and empathy. It resonates with those who feel deeply, speak freely, and uplift others.",
+  "series_number": 7812,
+  "collection": {
+    "id": "87a3d6596-1469-48ac-b6a5-d50d64978ef0",
+    "name": "Letters",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "Letters is a collection of digital letters and symbols designed for self-expression through visual art. Each image is a unique combination of text color, background, font size, and style, allowing users to convey their mood, emotions, or message to the world. The collection was created with a single purpose — to give everyone the freedom to design their NFT wall in a way that reflects their inner voice. Whether it's a scream, a whisper, joy, or silence — here, you'll find a symbol that feels truly yours. Build a word. Form a phrase. Curate a palette of feelings. Letters is a space where characters speak louder than words."
+      },
+      {
+        "type": "icon",
+        "value": "https://respectable-jade-llama.myfilebase.com/ipfs/Qmbk9VHDvNjUfC2eqUfgwAxh16eRvX3hrkeCHwXicbXAku"
+      },
+      {
+        "type": "banner",
+        "value": "https://respectable-jade-llama.myfilebase.com/ipfs/QmNhRQ5dHdTHd8TWNwi4Pp2j25qB87CLtrDrwbxork3akk"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Symbol",
+      "value": "E"
+    },
+    {
+      "trait_type": "Font",
+      "value": "Arial"
+    },
+    {
+      "trait_type": "Font Style",
+      "value": "Bold"
+    },
+    {
+      "trait_type": "Font Size",
+      "value": "1000"
+    },
+    {
+      "trait_type": "VerticalAlignment",
+      "value": "Bottom"
+    },
+    {
+      "trait_type": "HorizontalAlignment",
+      "value": "Right"
+    },
+    {
+      "trait_type": "Text Color",
+      "value": "#000000"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#F7971D"
+    }
+  ]
+}
